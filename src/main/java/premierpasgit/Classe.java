@@ -13,4 +13,5 @@ public class Classe {
     //Est une Classe
     // N'est pas une classe
     //bah non
+    //bah si c'en est une 
 }
