@@ -11,4 +11,5 @@ package premierpasgit;
  */
 public class Classe {
     //Est une Classe
+    // N'est pas une classe
 }
